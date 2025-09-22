@@ -22,14 +22,16 @@ This project implements a comprehensive data preprocessing pipeline for stroke p
 - Numerical outliers detected and removed
 
 ## 👥 Group Member Roles
-*Note: Replace with actual team member names and responsibilities*
 
-| Member | Role | Responsibilities |
-|--------|------|------------------|
-| Member 1 | Data Preprocessing | Handling missing values, outlier detection |
-| Member 2 | Feature Engineering | Encoding categorical variables, feature selection |
-| Member 3 | Pipeline Development | Scikit-learn pipeline implementation |
-| Member 4 | Documentation | Code documentation, README preparation |
+
+| Member | Responsibilities |
+|--------|------------------|
+| IT24102445 | Outlier Removal |
+| IT24103006 |  Dimension Reduction |
+| IT24100402 |  Normalization / Scaling |
+| IT24103282 |  Feature Selection |
+| IT24103869 | Handling Missing Data |
+| IT24104333 | Encoding Categorical Variables |
 
 ## 🚀 How to Run the Code
 
