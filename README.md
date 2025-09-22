@@ -80,7 +80,7 @@ This pipeline prepares the data for machine learning models. Potential next step
 G46_pipeline/
 ├── G46_pipeline.ipynb          # Main pipeline notebook
 ├── healthcare-dataset-stroke-data.csv  # Dataset
-├── requirements.txt            # Dependencies
+├── Individual ipynb files
 └── README.md                   # Project documentation
 ```
 
